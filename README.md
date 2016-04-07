@@ -1,8 +1,8 @@
-### Basic Project2
+### Interfaces
 
-### March 26
+### April 6
 
-A Basic Structure for Maven Projects
+Creating Interfaces
 
 * Git
 * Java 7
